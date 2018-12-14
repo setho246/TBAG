@@ -1,4 +1,4 @@
-This is a simple text based adventure game, create as part of my efforts to achevie an HD at UTAS for the KIT101 unit
+This is a simple text based adventure game, create as part of my efforts to achieve an HD at UTAS for the KIT101 unit
 
 Using Java, all aspects of the game are objectified, and the game is designed to allow for item states to be 
 persistent within each launch. By this, I mean if an item is picked up in room A and put down in room B, 
